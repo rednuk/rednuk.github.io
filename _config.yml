@@ -2,8 +2,8 @@ title: Shreyas Kunder
 email: 
 description: >
   Shreyas Kunder's Blog
-baseurl: "/Mekyll" # the subpath of your site, e.g. /blog
-url: "http://redunk.github.io" # the base hostname & protocol for your site
+baseurl: "/rednuk.github.io" # the subpath of your site, e.g. /blog
+url: "https://redunk.github.io" # the base hostname & protocol for your site
 postCount: 5 # the number of posts on the "index" page
 
 # Build settings
